@@ -45,7 +45,7 @@
     </div>
     <div class="product-item">
       <div class="product-img pro-img-6"></div>
-      <p>Okra soup</p>
+      <p>Fried shrimp</p>
       <p>1.99$</p>
       <button>Order</button>
     </div>

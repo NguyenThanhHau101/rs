@@ -34,7 +34,7 @@
         </div>
         <div class="footer-right">
           <p>
-          Sunny wishes you a delicious meal.
+          Sunny wishes you have a delicious meal.
           </p>
         </div>
       </div>

@@ -1,7 +1,36 @@
 <?php require APPROOT . '/views/inc/header.php'; ?>
 <div class="main-cart">
-  <p>I don't know how to do this using MVC @@</p>
-
+  <div class="cart-item-container">
+    <h1>Your Cart</h1>
+    <div class="cart-item">
+      <div class="cart-logo pro-img-1"></div>
+      <p>Curry rice</p>
+      <p>1.33$</p>
+      <div class="cart-btn">-</div>
+      <div>2</div>
+      <div class="cart-btn">+</div>
+    </div>
+    <div class="cart-item">
+      <div class="cart-logo pro-img-5"></div>
+      <p>Okra soup</p>
+      <p>1.99$</p>
+      <div class="cart-btn">-</div>
+      <div>2</div>
+      <div class="cart-btn">+</div>
+    </div>
+    <div class="cart-item">
+      <div class="cart-logo pro-img-7"></div>
+      <p>Fish soup</p>
+      <p>1.49$</p>
+      <div class="cart-btn">-</div>
+      <div>1</div>
+      <div class="cart-btn">+</div>
+    </div>
+  </div>
+  <div class="cart-total">
+    <h1>Total: 8.13 $</h1>
+    <button>Pay</button>
+  </div>
 </div>
 
 <div class="main-footer">
@@ -27,7 +56,7 @@
         </div>
         <div class="footer-right">
           <p>
-          Sunny wishes you a delicious meal.
+          Sunny wishes you have a delicious meal.
           </p>
         </div>
       </div>
